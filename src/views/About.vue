@@ -18,5 +18,6 @@ console.log('other');
 
 console.log('branch self_test');
 console.log('branch self_test');
+asdf
 
 </script>
