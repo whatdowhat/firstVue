@@ -16,8 +16,6 @@ export default {
 console.log(process.env.BASE_URL);
 console.log('other');
 
-console.log('branch self_test');
-console.log('branch self_test');
 asdf
 
 </script>
