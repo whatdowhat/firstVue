@@ -16,6 +16,5 @@ export default {
 console.log(process.env.BASE_URL);
 console.log('other');
 
-asdf
 
 </script>
